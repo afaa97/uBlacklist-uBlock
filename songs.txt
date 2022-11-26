@@ -10,4 +10,3 @@
 *://mp3heart.com/*
 *://muzking.net/*
 *://tropicmusic.ru/*
-*://www.youtube.com/*
