@@ -1,5 +1,5 @@
+! Title: BlackHatWorld
 ! https://www.blackhatworld.com
-! BlackHatWorld
 
   ! - Newbie Guide
 www.blackhatworld.com##.node-body [href="/forums/newbie-guide.242/"]:upward(3)
