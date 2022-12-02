@@ -1,6 +1,8 @@
 ! Title: BlackHatWorld
 ! https://www.blackhatworld.com
-
+! Homepage: https://github.com/afaa97/uBlacklist-uBlock
+! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
+!---------------------------------------------------------------------------
   ! - Newbie Guide
 www.blackhatworld.com##.node-body [href="/forums/newbie-guide.242/"]:upward(3)
   ! - Introductions
