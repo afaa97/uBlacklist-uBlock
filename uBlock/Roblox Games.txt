@@ -1,3 +1,7 @@
+! Title: Roblox Games
+! Homepage: https://github.com/afaa97/uBlacklist-uBlock
+! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
+!---------------------------------------------------------------------------
 www.roblox.com###\32 2232358 > .game-card-thumb-container.thumbnail-2d-container
 www.roblox.com###\33 83310974 > .game-card-thumb-container
 www.roblox.com###\31 40239261 > .game-card-thumb-container
