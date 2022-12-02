@@ -1,3 +1,7 @@
+! Title: itch.io Games
+! Homepage: https://github.com/afaa97/uBlacklist-uBlock
+! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
+!---------------------------------------------------------------------------
 itch.io##[data-game_id="372354"] .game_thumb
 itch.io##[data-game_id="91973"] .game_thumb
 itch.io##[data-game_id="382842"] .game_thumb
