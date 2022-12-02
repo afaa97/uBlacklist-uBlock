@@ -1,0 +1,40 @@
+! https://www.blackhatworld.com
+! BlackHatWorld
+
+  ! - Newbie Guide
+www.blackhatworld.com##.node-body [href="/forums/newbie-guide.242/"]:upward(3)
+  ! - Introductions
+www.blackhatworld.com##.node-body [href="/forums/introductions.24/"]:upward(3)
+  ! - Forum Suggestions and Feedback
+www.blackhatworld.com##.node-body [href="/forums/forum-suggestions-feedback.26/"]:upward(3)
+  ! - Blackhat Lounge
+www.blackhatworld.com##.js-threadListItem-1414105
+www.blackhatworld.com##.js-threadListItem-1413775
+www.blackhatworld.com##.js-threadListItem-1414093
+www.blackhatworld.com##.js-threadListItem-1414146
+www.blackhatworld.com##.js-threadListItem-1412857
+www.blackhatworld.com##.js-threadListItem-1412885
+www.blackhatworld.com##.js-threadListItem-1414096
+www.blackhatworld.com##.js-threadListItem-1414212
+www.blackhatworld.com##.js-threadListItem-1414204
+www.blackhatworld.com##.js-threadListItem-1414251
+www.blackhatworld.com##.js-threadListItem-1414134
+www.blackhatworld.com##.js-threadListItem-1414217
+www.blackhatworld.com##.js-threadListItem-1406676
+www.blackhatworld.com##.js-threadListItem-1412530
+www.blackhatworld.com##.js-threadListItem-1414131
+www.blackhatworld.com##.js-threadListItem-1414243
+www.blackhatworld.com##.js-threadListItem-1394603
+www.blackhatworld.com##.js-threadListItem-1414239
+www.blackhatworld.com##.js-threadListItem-1414228
+www.blackhatworld.com##.js-threadListItem-1414201
+
+! The Marketplace
+www.blackhatworld.com##.node-body [href="/forums/bhw-marketplace-rules-and-how-to-post.203/"]:upward(3)
+
+! Making Money
+  ! - Membership Sites
+www.blackhatworld.com##.js-threadListItem-591642:style(background-image: linear-gradient(45deg, #2C5364, #0F2027) !important;)
+
+! Conferences/Events
+www.blackhatworld.com##[href="/categories/ungagged.221/"]:upward(7)
