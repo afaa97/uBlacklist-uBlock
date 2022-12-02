@@ -1,3 +1,7 @@
+! Title: Roblox Games
+! Homepage: https://github.com/afaa97/uBlacklist-uBlock
+! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
+!---------------------------------------------------------------------------
 looksmax.org##.js-threadListItem-503289
 looksmax.org##.js-threadListItem-505782
 looksmax.org##.js-threadListItem-505453
