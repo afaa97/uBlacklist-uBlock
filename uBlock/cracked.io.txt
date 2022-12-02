@@ -1,3 +1,7 @@
+! Title: cracked.io
+! Homepage: https://github.com/afaa97/uBlacklist-uBlock
+! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
+!---------------------------------------------------------------------------
 ! Cracked.io Monetizing Techniques
 cracked.io###tid_732700:upward(.inline_row)
 cracked.io###tid_730876:upward(.inline_row)
