@@ -1,4 +1,4 @@
-! Title: Roblox Games
+! Title: looksmaxx
 ! Homepage: https://github.com/afaa97/uBlacklist-uBlock
 ! License: https://github.com/afaa97/uBlacklist-uBlock/blob/main/LICENSE
 !---------------------------------------------------------------------------
