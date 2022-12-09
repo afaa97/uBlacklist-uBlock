@@ -7,12 +7,9 @@
 *://github.com/alfem/telegram-download-daemon/issues/77*
 *://github.com/chuancw/Save_Restricted_Content_Bot*
 *://github.com/ouwou/telegram-protected-bypass*
-*://github.com/ouwou/telegram-protected-bypass*
 *://github.com/vasusen-code/SaveRestrictedContentBot*
 *://indianexpress.com/article/technology/social/telegram-monthly-update-brings-content-protection-and-delete-by-date-feature-7662617*
-*://indianexpress.com/article/technology/social/telegram-monthly-update-brings-content-protection-and-delete-by-date-feature-7662617*
 *://medialeaks.ru/0812drem-str-telegramblock*
-*://play.google.com/store/apps/details?id=org.telegram.BifToGram&hl=en&gl=US*
 *://play.google.com/store/apps/details?id=org.telegram.BifToGram&hl=en&gl=US*
 *://pythonawesome.com/save-restricted-content-bot-for-telegram*
 *://pythonawesome.com/simple-telegram-bot-to-save-restricted-content-with-custom-thumbnail-support*
@@ -70,7 +67,6 @@
 *://www.reddit.com/r/youtubedl/comments/xzsksg/download_telegram_private_channel_media*
 *://www.saikotech.in/2022/01/the-admin-of-this-channel-have.html*
 *://www.swipetips.com/how-to-restrict-saving-content-on-telegram*
-*://www.swipetips.com/how-to-restrict-saving-content-on-telegram*
 *://www.techtracker.in/2022/05/how-to-bypass-content-forwarding.html*
 *://www.xda-developers.com/telegram-8-3-content-protection*
 *://www.youtube.com/shorts/N84vn-53dlU*
@@ -85,7 +81,6 @@
 *://www.youtube.com/watch?v=bsyAhEYE6Do*
 *://www.youtube.com/watch?v=eTY4JXDrCA4*
 *://www.youtube.com/watch?v=jfvb9lVHM10*
-*://www.youtube.com/watch?v=q-QQ8-GVW9w*
 *://www.youtube.com/watch?v=q-QQ8-GVW9w*
 *://www.youtube.com/watch?v=uB6e2cc-_Wk*
 *://www.youtube.com/watch?v=xxXEMHVfWOk*
